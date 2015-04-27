@@ -1,0 +1,13 @@
+{
+  "name": "myApp",
+  "private": "true",
+  "devDependencies": {
+    "ionic": "driftyco/ionic-bower#1.0.0-rc.4"
+  },
+  "dependencies": {
+    "ngCordova": "~0.1.15-alpha",
+    "a0-angular-storage": "~0.0.10",
+    "auth0-angular": "~4.0.2",
+    "angular-jwt": "~0.0.7"
+  }
+}
