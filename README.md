@@ -10,6 +10,7 @@ Pre-requisites
 2. Create an account on [auth0](https://auth0.com/) if you have not already.
 3. Create / Configure ADFS which uses **integrated windows login**.
 4. Create an App and configure to use ADFS setup in step above.
+5. replace auth0 client id and domain in www/js/auth0-variables.js
 
 Steps
 -----
